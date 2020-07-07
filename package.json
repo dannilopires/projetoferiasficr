@@ -1,0 +1,19 @@
+{
+  "name": "projetoferiasficr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannilopires/projetoferiasficr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannilopires/projetoferiasficr/issues"
+  },
+  "homepage": "https://github.com/dannilopires/projetoferiasficr#readme"
+}
